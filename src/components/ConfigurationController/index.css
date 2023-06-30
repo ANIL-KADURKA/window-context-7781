@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.config-container {
+  height: 200px;
+  width: auto;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+  background-color: black;
+}
+.co-ul-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+.co-li-element {
+  height: 20px;
+  width: 20px;
+}
+.co-para {
+  font-size: 20px;
+  margin-left: 10px;
+}

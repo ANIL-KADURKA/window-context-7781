@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.head-container {
+  background-color: black;
+  color: white;
+  height: 150px;
+  margin: 10px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
